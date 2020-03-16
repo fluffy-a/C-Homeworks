@@ -1,0 +1,11 @@
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\bin\Debug\netcoreapp3.1\firstHomework.exe
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\bin\Debug\netcoreapp3.1\firstHomework.deps.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\bin\Debug\netcoreapp3.1\firstHomework.runtimeconfig.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\bin\Debug\netcoreapp3.1\firstHomework.runtimeconfig.dev.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\bin\Debug\netcoreapp3.1\firstHomework.dll
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\bin\Debug\netcoreapp3.1\firstHomework.pdb
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\obj\Debug\netcoreapp3.1\firstHomework.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\obj\Debug\netcoreapp3.1\firstHomework.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\obj\Debug\netcoreapp3.1\firstHomework.AssemblyInfo.cs
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\obj\Debug\netcoreapp3.1\firstHomework.dll
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\obj\Debug\netcoreapp3.1\firstHomework.pdb

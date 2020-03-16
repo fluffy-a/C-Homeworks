@@ -1,0 +1,11 @@
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_thirdHomework\03_thirdHomeowrk\03_thirdHomeowrk\bin\Debug\netcoreapp3.1\03_thirdHomeowrk.exe
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_thirdHomework\03_thirdHomeowrk\03_thirdHomeowrk\bin\Debug\netcoreapp3.1\03_thirdHomeowrk.deps.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_thirdHomework\03_thirdHomeowrk\03_thirdHomeowrk\bin\Debug\netcoreapp3.1\03_thirdHomeowrk.runtimeconfig.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_thirdHomework\03_thirdHomeowrk\03_thirdHomeowrk\bin\Debug\netcoreapp3.1\03_thirdHomeowrk.runtimeconfig.dev.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_thirdHomework\03_thirdHomeowrk\03_thirdHomeowrk\bin\Debug\netcoreapp3.1\03_thirdHomeowrk.dll
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_thirdHomework\03_thirdHomeowrk\03_thirdHomeowrk\bin\Debug\netcoreapp3.1\03_thirdHomeowrk.pdb
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_thirdHomework\03_thirdHomeowrk\03_thirdHomeowrk\obj\Debug\netcoreapp3.1\03_thirdHomeowrk.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_thirdHomework\03_thirdHomeowrk\03_thirdHomeowrk\obj\Debug\netcoreapp3.1\03_thirdHomeowrk.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_thirdHomework\03_thirdHomeowrk\03_thirdHomeowrk\obj\Debug\netcoreapp3.1\03_thirdHomeowrk.AssemblyInfo.cs
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_thirdHomework\03_thirdHomeowrk\03_thirdHomeowrk\obj\Debug\netcoreapp3.1\03_thirdHomeowrk.dll
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_thirdHomework\03_thirdHomeowrk\03_thirdHomeowrk\obj\Debug\netcoreapp3.1\03_thirdHomeowrk.pdb

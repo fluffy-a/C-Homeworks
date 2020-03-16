@@ -1,0 +1,10 @@
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\bin\Debug\netcoreapp3.1\trafficLight.exe
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\bin\Debug\netcoreapp3.1\trafficLight.deps.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\bin\Debug\netcoreapp3.1\trafficLight.runtimeconfig.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\bin\Debug\netcoreapp3.1\trafficLight.runtimeconfig.dev.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\bin\Debug\netcoreapp3.1\trafficLight.dll
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\bin\Debug\netcoreapp3.1\trafficLight.pdb
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\obj\Debug\netcoreapp3.1\trafficLight.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\obj\Debug\netcoreapp3.1\trafficLight.AssemblyInfo.cs
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\obj\Debug\netcoreapp3.1\trafficLight.dll
+C:\Users\Aleksandra\Desktop\C#Homeworks\01_firstHomework\firstHomework\firstHomework\obj\Debug\netcoreapp3.1\trafficLight.pdb
