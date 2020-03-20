@@ -1,0 +1,13 @@
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_extraExercise\extraExercise\extraExercise\bin\Debug\netcoreapp3.1\extraExercise.exe
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_extraExercise\extraExercise\extraExercise\bin\Debug\netcoreapp3.1\extraExercise.deps.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_extraExercise\extraExercise\extraExercise\bin\Debug\netcoreapp3.1\extraExercise.runtimeconfig.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_extraExercise\extraExercise\extraExercise\bin\Debug\netcoreapp3.1\extraExercise.runtimeconfig.dev.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_extraExercise\extraExercise\extraExercise\bin\Debug\netcoreapp3.1\extraExercise.dll
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_extraExercise\extraExercise\extraExercise\bin\Debug\netcoreapp3.1\extraExercise.pdb
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_extraExercise\extraExercise\extraExercise\obj\Debug\netcoreapp3.1\extraExercise.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_extraExercise\extraExercise\extraExercise\obj\Debug\netcoreapp3.1\extraExercise.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_extraExercise\extraExercise\extraExercise\obj\Debug\netcoreapp3.1\extraExercise.AssemblyInfo.cs
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_extraExercise\extraExercise\extraExercise\obj\Debug\netcoreapp3.1\extraExercise.dll
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_extraExercise\extraExercise\extraExercise\obj\Debug\netcoreapp3.1\extraExercise.pdb
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_extraExercise\extraExercise\extraExercise\obj\Debug\netcoreapp3.1\extraExercise.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\03_extraExercise\extraExercise\extraExercise\obj\Debug\netcoreapp3.1\extraExercise.genruntimeconfig.cache
