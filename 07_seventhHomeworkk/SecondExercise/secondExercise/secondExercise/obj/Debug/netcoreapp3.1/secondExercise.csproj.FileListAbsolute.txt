@@ -1,0 +1,13 @@
+C:\Users\Aleksandra\Desktop\C#Homeworks\07_seventhHomeworkk\SecondExercise\secondExercise\secondExercise\bin\Debug\netcoreapp3.1\secondExercise.exe
+C:\Users\Aleksandra\Desktop\C#Homeworks\07_seventhHomeworkk\SecondExercise\secondExercise\secondExercise\bin\Debug\netcoreapp3.1\secondExercise.deps.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\07_seventhHomeworkk\SecondExercise\secondExercise\secondExercise\bin\Debug\netcoreapp3.1\secondExercise.runtimeconfig.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\07_seventhHomeworkk\SecondExercise\secondExercise\secondExercise\bin\Debug\netcoreapp3.1\secondExercise.runtimeconfig.dev.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\07_seventhHomeworkk\SecondExercise\secondExercise\secondExercise\bin\Debug\netcoreapp3.1\secondExercise.dll
+C:\Users\Aleksandra\Desktop\C#Homeworks\07_seventhHomeworkk\SecondExercise\secondExercise\secondExercise\bin\Debug\netcoreapp3.1\secondExercise.pdb
+C:\Users\Aleksandra\Desktop\C#Homeworks\07_seventhHomeworkk\SecondExercise\secondExercise\secondExercise\obj\Debug\netcoreapp3.1\secondExercise.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\07_seventhHomeworkk\SecondExercise\secondExercise\secondExercise\obj\Debug\netcoreapp3.1\secondExercise.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\07_seventhHomeworkk\SecondExercise\secondExercise\secondExercise\obj\Debug\netcoreapp3.1\secondExercise.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\07_seventhHomeworkk\SecondExercise\secondExercise\secondExercise\obj\Debug\netcoreapp3.1\secondExercise.AssemblyInfo.cs
+C:\Users\Aleksandra\Desktop\C#Homeworks\07_seventhHomeworkk\SecondExercise\secondExercise\secondExercise\obj\Debug\netcoreapp3.1\secondExercise.dll
+C:\Users\Aleksandra\Desktop\C#Homeworks\07_seventhHomeworkk\SecondExercise\secondExercise\secondExercise\obj\Debug\netcoreapp3.1\secondExercise.pdb
+C:\Users\Aleksandra\Desktop\C#Homeworks\07_seventhHomeworkk\SecondExercise\secondExercise\secondExercise\obj\Debug\netcoreapp3.1\secondExercise.genruntimeconfig.cache
