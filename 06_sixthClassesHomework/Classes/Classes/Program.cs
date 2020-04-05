@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Classes
 {
@@ -57,22 +57,17 @@ namespace Classes
             //Properties
             public string FirstName;
             public string LastName;
-            //private string Age;
+            public int Age;
 
 
 
             //Method
             public void GetPersonStats()
             {
-                Console.WriteLine($" Hi, I am {FirstName} {LastName} , nice to meet u");
-                //HowOld(DateTime.Today);
+                Console.WriteLine($" Hi, I am {FirstName} {LastName} {Age} years old. Nice to meet u");
+              
             }
-            //private void HowOld(DateTime today)
-            //{
-            //    if (today.Month < DateOfBirth.Month)
-            //        Age = today.Year - DateOfBirth.Year - 1;
-            //}
-
+            
 
         }
 
@@ -132,13 +127,13 @@ namespace Classes
                 Console.WriteLine("Tell me your last name");
                 human.LastName = Console.ReadLine();
 
-                //Console.WriteLine("Tell me your age");
-                //human.Age = Console.ReadLine(); private
+                Console.WriteLine("Tell me your age");
+                human.Age = int.Parse(Console.ReadLine());
 
+            
+            //Call the GetPersonStats method and print the result in the console after the object is created
 
-                //Call the GetPersonStats method and print the result in the console after the object is created
-
-                human.GetPersonStats();
+            human.GetPersonStats();
 
 
 
