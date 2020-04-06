@@ -1,0 +1,9 @@
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\Service\Service\bin\Debug\netcoreapp3.1\PersonServices.deps.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\Service\Service\bin\Debug\netcoreapp3.1\PersonServices.dll
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\Service\Service\bin\Debug\netcoreapp3.1\PersonServices.pdb
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\Service\Service\obj\Debug\netcoreapp3.1\PersonServices.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\Service\Service\obj\Debug\netcoreapp3.1\PersonServices.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\Service\Service\obj\Debug\netcoreapp3.1\PersonServices.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\Service\Service\obj\Debug\netcoreapp3.1\PersonServices.AssemblyInfo.cs
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\Service\Service\obj\Debug\netcoreapp3.1\PersonServices.dll
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\Service\Service\obj\Debug\netcoreapp3.1\PersonServices.pdb

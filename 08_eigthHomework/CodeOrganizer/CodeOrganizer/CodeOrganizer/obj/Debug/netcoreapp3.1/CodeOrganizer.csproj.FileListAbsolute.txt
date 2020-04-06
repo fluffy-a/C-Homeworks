@@ -1,0 +1,16 @@
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\CodeOrganizer\CodeOrganizer\CodeOrganizer\bin\Debug\netcoreapp3.1\CodeOrganizer.exe
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\CodeOrganizer\CodeOrganizer\CodeOrganizer\bin\Debug\netcoreapp3.1\CodeOrganizer.deps.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\CodeOrganizer\CodeOrganizer\CodeOrganizer\bin\Debug\netcoreapp3.1\CodeOrganizer.runtimeconfig.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\CodeOrganizer\CodeOrganizer\CodeOrganizer\bin\Debug\netcoreapp3.1\CodeOrganizer.runtimeconfig.dev.json
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\CodeOrganizer\CodeOrganizer\CodeOrganizer\bin\Debug\netcoreapp3.1\CodeOrganizer.dll
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\CodeOrganizer\CodeOrganizer\CodeOrganizer\bin\Debug\netcoreapp3.1\CodeOrganizer.pdb
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\CodeOrganizer\CodeOrganizer\CodeOrganizer\bin\Debug\netcoreapp3.1\PersonServices.dll
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\CodeOrganizer\CodeOrganizer\CodeOrganizer\bin\Debug\netcoreapp3.1\PersonServices.pdb
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\CodeOrganizer\CodeOrganizer\CodeOrganizer\obj\Debug\netcoreapp3.1\CodeOrganizer.csprojAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\CodeOrganizer\CodeOrganizer\CodeOrganizer\obj\Debug\netcoreapp3.1\CodeOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\CodeOrganizer\CodeOrganizer\CodeOrganizer\obj\Debug\netcoreapp3.1\CodeOrganizer.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\CodeOrganizer\CodeOrganizer\CodeOrganizer\obj\Debug\netcoreapp3.1\CodeOrganizer.AssemblyInfo.cs
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\CodeOrganizer\CodeOrganizer\CodeOrganizer\obj\Debug\netcoreapp3.1\CodeOrganizer.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\CodeOrganizer\CodeOrganizer\CodeOrganizer\obj\Debug\netcoreapp3.1\CodeOrganizer.dll
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\CodeOrganizer\CodeOrganizer\CodeOrganizer\obj\Debug\netcoreapp3.1\CodeOrganizer.pdb
+C:\Users\Aleksandra\Desktop\C#Homeworks\08_eigthHomework\CodeOrganizer\CodeOrganizer\CodeOrganizer\obj\Debug\netcoreapp3.1\CodeOrganizer.genruntimeconfig.cache
