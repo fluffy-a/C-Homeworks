@@ -1,0 +1,15 @@
+D:\C# CLASSES\11. Exercise for Calculator Max and Avg\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.exe
+D:\C# CLASSES\11. Exercise for Calculator Max and Avg\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.deps.json
+D:\C# CLASSES\11. Exercise for Calculator Max and Avg\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.runtimeconfig.json
+D:\C# CLASSES\11. Exercise for Calculator Max and Avg\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.runtimeconfig.dev.json
+D:\C# CLASSES\11. Exercise for Calculator Max and Avg\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.dll
+D:\C# CLASSES\11. Exercise for Calculator Max and Avg\Digitron\Digitron\bin\Debug\netcoreapp3.1\Digitron.pdb
+D:\C# CLASSES\11. Exercise for Calculator Max and Avg\Digitron\Digitron\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\C# CLASSES\11. Exercise for Calculator Max and Avg\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.csprojAssemblyReference.cache
+D:\C# CLASSES\11. Exercise for Calculator Max and Avg\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.csproj.CoreCompileInputs.cache
+D:\C# CLASSES\11. Exercise for Calculator Max and Avg\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.AssemblyInfoInputs.cache
+D:\C# CLASSES\11. Exercise for Calculator Max and Avg\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.AssemblyInfo.cs
+D:\C# CLASSES\11. Exercise for Calculator Max and Avg\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.csproj.CopyComplete
+D:\C# CLASSES\11. Exercise for Calculator Max and Avg\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.dll
+D:\C# CLASSES\11. Exercise for Calculator Max and Avg\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.pdb
+D:\C# CLASSES\11. Exercise for Calculator Max and Avg\Digitron\Digitron\obj\Debug\netcoreapp3.1\Digitron.genruntimeconfig.cache
