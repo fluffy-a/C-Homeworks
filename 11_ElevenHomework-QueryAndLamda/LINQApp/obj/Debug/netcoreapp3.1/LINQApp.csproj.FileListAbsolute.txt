@@ -1,0 +1,26 @@
+D:\C# CLASSES\12.LINQPrep\LINQApp\bin\Debug\netcoreapp3.1\LINQApp.exe
+D:\C# CLASSES\12.LINQPrep\LINQApp\bin\Debug\netcoreapp3.1\LINQApp.deps.json
+D:\C# CLASSES\12.LINQPrep\LINQApp\bin\Debug\netcoreapp3.1\LINQApp.runtimeconfig.json
+D:\C# CLASSES\12.LINQPrep\LINQApp\bin\Debug\netcoreapp3.1\LINQApp.runtimeconfig.dev.json
+D:\C# CLASSES\12.LINQPrep\LINQApp\bin\Debug\netcoreapp3.1\LINQApp.dll
+D:\C# CLASSES\12.LINQPrep\LINQApp\bin\Debug\netcoreapp3.1\LINQApp.pdb
+D:\C# CLASSES\12.LINQPrep\LINQApp\obj\Debug\netcoreapp3.1\LINQApp.csprojAssemblyReference.cache
+D:\C# CLASSES\12.LINQPrep\LINQApp\obj\Debug\netcoreapp3.1\LINQApp.csproj.CoreCompileInputs.cache
+D:\C# CLASSES\12.LINQPrep\LINQApp\obj\Debug\netcoreapp3.1\LINQApp.AssemblyInfoInputs.cache
+D:\C# CLASSES\12.LINQPrep\LINQApp\obj\Debug\netcoreapp3.1\LINQApp.AssemblyInfo.cs
+D:\C# CLASSES\12.LINQPrep\LINQApp\obj\Debug\netcoreapp3.1\LINQApp.dll
+D:\C# CLASSES\12.LINQPrep\LINQApp\obj\Debug\netcoreapp3.1\LINQApp.pdb
+D:\C# CLASSES\12.LINQPrep\LINQApp\obj\Debug\netcoreapp3.1\LINQApp.genruntimeconfig.cache
+D:\C#Homeworks\11_ElevenHomework-LINQPrep\LINQApp\bin\Debug\netcoreapp3.1\LINQApp.exe
+D:\C#Homeworks\11_ElevenHomework-LINQPrep\LINQApp\bin\Debug\netcoreapp3.1\LINQApp.deps.json
+D:\C#Homeworks\11_ElevenHomework-LINQPrep\LINQApp\bin\Debug\netcoreapp3.1\LINQApp.runtimeconfig.json
+D:\C#Homeworks\11_ElevenHomework-LINQPrep\LINQApp\bin\Debug\netcoreapp3.1\LINQApp.runtimeconfig.dev.json
+D:\C#Homeworks\11_ElevenHomework-LINQPrep\LINQApp\bin\Debug\netcoreapp3.1\LINQApp.dll
+D:\C#Homeworks\11_ElevenHomework-LINQPrep\LINQApp\bin\Debug\netcoreapp3.1\LINQApp.pdb
+D:\C#Homeworks\11_ElevenHomework-LINQPrep\LINQApp\obj\Debug\netcoreapp3.1\LINQApp.csprojAssemblyReference.cache
+D:\C#Homeworks\11_ElevenHomework-LINQPrep\LINQApp\obj\Debug\netcoreapp3.1\LINQApp.csproj.CoreCompileInputs.cache
+D:\C#Homeworks\11_ElevenHomework-LINQPrep\LINQApp\obj\Debug\netcoreapp3.1\LINQApp.AssemblyInfoInputs.cache
+D:\C#Homeworks\11_ElevenHomework-LINQPrep\LINQApp\obj\Debug\netcoreapp3.1\LINQApp.AssemblyInfo.cs
+D:\C#Homeworks\11_ElevenHomework-LINQPrep\LINQApp\obj\Debug\netcoreapp3.1\LINQApp.dll
+D:\C#Homeworks\11_ElevenHomework-LINQPrep\LINQApp\obj\Debug\netcoreapp3.1\LINQApp.pdb
+D:\C#Homeworks\11_ElevenHomework-LINQPrep\LINQApp\obj\Debug\netcoreapp3.1\LINQApp.genruntimeconfig.cache

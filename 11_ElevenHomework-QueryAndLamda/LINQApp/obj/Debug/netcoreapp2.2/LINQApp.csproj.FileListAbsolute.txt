@@ -1,0 +1,12 @@
+D:\C# CLASSES\12.LINQPrep\LINQApp\bin\Debug\netcoreapp2.2\LINQApp.deps.json
+D:\C# CLASSES\12.LINQPrep\LINQApp\bin\Debug\netcoreapp2.2\LINQApp.runtimeconfig.json
+D:\C# CLASSES\12.LINQPrep\LINQApp\bin\Debug\netcoreapp2.2\LINQApp.runtimeconfig.dev.json
+D:\C# CLASSES\12.LINQPrep\LINQApp\bin\Debug\netcoreapp2.2\LINQApp.dll
+D:\C# CLASSES\12.LINQPrep\LINQApp\bin\Debug\netcoreapp2.2\LINQApp.pdb
+D:\C# CLASSES\12.LINQPrep\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.csprojAssemblyReference.cache
+D:\C# CLASSES\12.LINQPrep\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.csproj.CoreCompileInputs.cache
+D:\C# CLASSES\12.LINQPrep\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.AssemblyInfoInputs.cache
+D:\C# CLASSES\12.LINQPrep\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.AssemblyInfo.cs
+D:\C# CLASSES\12.LINQPrep\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.dll
+D:\C# CLASSES\12.LINQPrep\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.pdb
+D:\C# CLASSES\12.LINQPrep\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.genruntimeconfig.cache
