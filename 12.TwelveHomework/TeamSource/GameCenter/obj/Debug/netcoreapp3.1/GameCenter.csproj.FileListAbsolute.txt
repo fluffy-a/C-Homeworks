@@ -1,0 +1,16 @@
+D:\C# CLASSES\13.Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.exe
+D:\C# CLASSES\13.Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.deps.json
+D:\C# CLASSES\13.Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.runtimeconfig.json
+D:\C# CLASSES\13.Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.runtimeconfig.dev.json
+D:\C# CLASSES\13.Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.dll
+D:\C# CLASSES\13.Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.pdb
+D:\C# CLASSES\13.Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\TeamSource.dll
+D:\C# CLASSES\13.Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\TeamSource.pdb
+D:\C# CLASSES\13.Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.csprojAssemblyReference.cache
+D:\C# CLASSES\13.Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.csproj.CoreCompileInputs.cache
+D:\C# CLASSES\13.Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.AssemblyInfoInputs.cache
+D:\C# CLASSES\13.Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.AssemblyInfo.cs
+D:\C# CLASSES\13.Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.csproj.CopyComplete
+D:\C# CLASSES\13.Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.dll
+D:\C# CLASSES\13.Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.pdb
+D:\C# CLASSES\13.Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.genruntimeconfig.cache
