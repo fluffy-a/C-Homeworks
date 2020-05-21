@@ -1,0 +1,16 @@
+D:\C#Homeworks\13. ThirteenHomework-Class15\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.exe
+D:\C#Homeworks\13. ThirteenHomework-Class15\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.deps.json
+D:\C#Homeworks\13. ThirteenHomework-Class15\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.runtimeconfig.json
+D:\C#Homeworks\13. ThirteenHomework-Class15\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.runtimeconfig.dev.json
+D:\C#Homeworks\13. ThirteenHomework-Class15\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.dll
+D:\C#Homeworks\13. ThirteenHomework-Class15\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.pdb
+D:\C#Homeworks\13. ThirteenHomework-Class15\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\WebApi.dll
+D:\C#Homeworks\13. ThirteenHomework-Class15\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\WebApi.pdb
+D:\C#Homeworks\13. ThirteenHomework-Class15\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.csprojAssemblyReference.cache
+D:\C#Homeworks\13. ThirteenHomework-Class15\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.csproj.CoreCompileInputs.cache
+D:\C#Homeworks\13. ThirteenHomework-Class15\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.AssemblyInfoInputs.cache
+D:\C#Homeworks\13. ThirteenHomework-Class15\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.AssemblyInfo.cs
+D:\C#Homeworks\13. ThirteenHomework-Class15\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.csproj.CopyComplete
+D:\C#Homeworks\13. ThirteenHomework-Class15\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.dll
+D:\C#Homeworks\13. ThirteenHomework-Class15\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.pdb
+D:\C#Homeworks\13. ThirteenHomework-Class15\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.genruntimeconfig.cache
